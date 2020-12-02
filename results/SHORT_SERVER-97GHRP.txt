@@ -1,0 +1,55 @@
+Cache size in KBytes 16384
+Cache size in KBytes 16
+number of data 4096
+Cache assoc 8
+Cache blocksize 16
+BlockShift 4
+TagBitNum 51
+BlockShift 4
+EntryNum 128
+IndexBitNum 7
+GHRP
+0
+  MPKBr_1K         	 :   137.0000
+Misses: 27
+Hits: 972
+Total Accesses: 1998
+MissRate (misses per 1000 insts): 27.027027027
+Replaced: 0
+Bypassed: 0
+ConflictMisses: 0
+  MPKBr_10K         	 :    70.2000
+Misses: 28
+Hits: 9971
+Total Accesses: 19998
+MissRate (misses per 1000 insts): 2.800280028
+Replaced: 0
+Bypassed: 0
+ConflictMisses: 0
+  MPKBr_100K         	 :    52.4200
+Misses: 1452
+Hits: 98547
+Total Accesses: 199998
+MissRate (misses per 1000 insts): 14.520145201
+Replaced: 664
+Bypassed: 18
+ConflictMisses: 682
+  MPKBr_1M         	 :    38.8390
+Misses: 21667
+Hits: 978332
+Total Accesses: 1999998
+MissRate (misses per 1000 insts): 21.667021667
+Replaced: 9163
+Bypassed: 11511
+ConflictMisses: 20674
+  TRACE 	 : ../traces/SHORT_SERVER-97.bt9.trace.gz  NUM_INSTRUCTIONS            	 :   69999900  NUM_BR                      	 :    9026237  NUM_UNCOND_BR               	 :     902674  NUM_CONDITIONAL_BR          	 :    8123563  NUM_MISPREDICTIONS          	 :     347036  MISPRED_PER_1K_INST         	 :     4.9577
+**********
+
+Misses: 263435
+Hits: 8762803
+Total Accesses: 18052476
+MissRate (misses per 1000 insts): 29.185470181
+Replaced: 68688
+Bypassed: 193723
+ConflictMisses: 262411
+
